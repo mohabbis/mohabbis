@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Muha, a University of Michigan student working where business, strategy, design, and technology overlap. I build things that make ideas feel real — websites, tools, brands, and systems that turn messy problems into something clearer and more useful.
+I'm Muha, a University of Michigan student working where business, strategy, design, and technology overlap. I build things that make ideas feel real: websites, tools, brands, and systems that turn messy problems into something clearer and more useful.
 
 ## Currently
 
