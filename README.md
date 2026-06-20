@@ -1,12 +1,14 @@
-<div align="center">
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8B5CF6&height=200&section=header&text=Hi%2C%20I'm%20Muha%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-# Hi, I'm Muha 👋
+<div align="center">
 
 ### Business × Strategy × Design × Technology
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+things+that+make+ideas+feel+real.;Websites%2C+tools%2C+brands+%26+systems.;Turning+messy+problems+into+something+clearer.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=mohabbis&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
+<img src="https://img.shields.io/badge/Focus-Make%20ideas%20feel%20real-8B5CF6?style=flat" alt="focus" />
 
 </div>
 
@@ -15,7 +17,7 @@
 ## 🧠 About
 
 > University of Michigan student working where **business, strategy, design, and technology** overlap.
-> I build things that make ideas feel real — websites, tools, brands, and systems that turn messy problems into something clearer and more useful.
+> I build things that make ideas feel real: websites, tools, brands, and systems that turn messy problems into something clearer and more useful.
 
 ```yaml
 name:     Muha
@@ -69,6 +71,15 @@ mindset:  "make ideas feel real"
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohabbis&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohabbis&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<br/>
+
+<!-- Contribution activity graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohabbis&theme=tokyo-night&hide_border=true&area=true&color=2F81F7&line=8B5CF6&point=ffffff" />
+
 </div>
 
 ---
@@ -78,7 +89,7 @@ mindset:  "make ideas feel real"
 
 <br/>
 
-I like starting from the problem, not the tool. Whether it's a brand, a web app, or an internal system, the goal is the same: take something messy and make it **clear, useful, and real**. I care about the overlap between good strategy and good execution — the small details that make a product feel intentional.
+I like starting from the problem, not the tool. Whether it's a brand, a web app, or an internal system, the goal stays the same: take something messy and make it **clear, useful, and real**. I care about the overlap between good strategy and good execution, those small details that make a product feel intentional.
 
 </details>
 
@@ -87,5 +98,7 @@ I like starting from the problem, not the tool. Whether it's a brand, a web app,
 ---
 
 ⭐️ *Building at the intersection of ideas and execution.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2F81F7&height=120&section=footer" />
 
 </div>
