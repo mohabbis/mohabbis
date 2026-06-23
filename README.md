@@ -5,7 +5,7 @@
 
 ### Business × Strategy × Design × Technology
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+things+that+make+ideas+feel+real.;Websites%2C+tools%2C+brands+%26+systems.;Turning+messy+problems+into+something+clearer.)](https://git.io/typing-svg)
+I build things that make ideas feel real — websites, tools, brands, and systems that turn messy problems into something clearer.
 
 <img src="https://komarev.com/ghpvc/?username=mohabbis&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
 <img src="https://img.shields.io/badge/Focus-Make%20ideas%20feel%20real-8B5CF6?style=flat" alt="focus" />
