@@ -1,104 +1,47 @@
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8B5CF6&height=200&section=header&text=Hi%2C%20I'm%20Muha%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+# Muha / Muhammad Rafiq
 
-<div align="center">
+I build software at the edge of daily life: local-first automation, smart-home interfaces, physical-device tools, and operational systems.
 
-### Business × Strategy × Design × Technology
+I am a University of Michigan student interested in product strategy, design, automation, smart homes, and tools that make messy workflows clearer.
 
-I build things that make ideas feel real — websites, tools, brands, and systems that turn messy problems into something clearer.
+## Building
 
-<img src="https://komarev.com/ghpvc/?username=mohabbis&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/Focus-Make%20ideas%20feel%20real-8B5CF6?style=flat" alt="focus" />
+- **[Ghost](https://github.com/mohabbis/ghost)**: local-first desktop automation with approval, audit logs, and undo paths.
+- **[Lumen](https://github.com/mohabbis/Lumen)**: iOS smart-home companion for routines, scenes, and presence-aware suggestions.
+- **[FlipDeck](https://github.com/mohabbis/flipdeck)**: safe USB command deck for Flipper Zero.
+- **[muharafiq.com](https://muharafiq.com)**: product and design portfolio with case studies across software, systems, and creative technology.
 
-</div>
+## Selected Work
 
----
+| Project | Focus | Stack |
+|---|---|---|
+| [Ghost](https://github.com/mohabbis/ghost) | Desktop automation, trust boundaries, replay | Rust, Tauri |
+| [Lumen](https://github.com/mohabbis/Lumen) | Smart-home UX, explainable routines | SwiftUI, SwiftData, HomeKit |
+| [FlipDeck](https://github.com/mohabbis/flipdeck) | Physical-device command automation | C, Flipper Zero, USB HID |
+| [Portfolio](https://github.com/mohabbis/personal-portfolio) | Case studies and design system | Next.js, TypeScript, Tailwind |
 
-## 🧠 About
+## For Reviewers
 
-> University of Michigan student working where **business, strategy, design, and technology** overlap.
-> I build things that make ideas feel real: websites, tools, brands, and systems that turn messy problems into something clearer and more useful.
+Start here:
 
-```yaml
-name:     Muha
-school:   University of Michigan
-focus:    [ business, strategy, design, technology ]
-mindset:  "make ideas feel real"
-```
+1. **Ghost**: strongest example of my systems and product thinking.
+2. **Lumen**: strongest example of polished product and iOS work.
+3. **FlipDeck**: strongest example of physical-device tooling.
+4. **Portfolio**: overview of design, systems, and case-study work.
 
----
+## Technical Range
 
-## 🚀 Currently
+- Desktop apps: Rust, Tauri, local workflow storage, permissions, replay, diagnostics.
+- iOS apps: SwiftUI, SwiftData, HomeKit, local-first product architecture.
+- Web: Next.js, React, TypeScript, Tailwind, deployment, analytics, SEO.
+- Systems: Supabase, CRM design, operational tooling, automation workflows.
+- Devices: Flipper Zero, USB HID workflows, smart-home integrations.
 
-- 🌐 Building **web projects** that ship
-- 🤖 Learning **automation** & **product development**
-- 🧩 Designing better systems for **student orgs**, **local businesses**, and **personal projects**
+## Interests
 
----
+Local-first software, human-computer interaction, workflow automation, smart homes, product strategy, design systems, and practical tools for real-world operations.
 
-## ✨ Interested In
+## Links
 
-`Business Strategy` &nbsp;•&nbsp; `Product & Operations` &nbsp;•&nbsp; `Web Development` &nbsp;•&nbsp; `Branding & Design` &nbsp;•&nbsp; `Smart Home Tech` &nbsp;•&nbsp; `Practical AI Tools` &nbsp;•&nbsp; `Startups & Systems That Actually Work`
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohabbis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabbis&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohabbis&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohabbis&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-<br/>
-
-<!-- Contribution activity graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohabbis&theme=tokyo-night&hide_border=true&area=true&color=2F81F7&line=8B5CF6&point=ffffff" />
-
-</div>
-
----
-
-<details>
-<summary>💡 <b>A little more about how I work</b></summary>
-
-<br/>
-
-I like starting from the problem, not the tool. Whether it's a brand, a web app, or an internal system, the goal stays the same: take something messy and make it **clear, useful, and real**. I care about the overlap between good strategy and good execution, those small details that make a product feel intentional.
-
-</details>
-
-<div align="center">
-
----
-
-⭐️ *Building at the intersection of ideas and execution.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2F81F7&height=120&section=footer" />
-
-</div>
+- Portfolio: [muharafiq.com](https://muharafiq.com)
+- LinkedIn: [linkedin.com/in/muharafiq](https://linkedin.com/in/muharafiq)
