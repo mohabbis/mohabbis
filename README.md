@@ -1,77 +1,40 @@
 # Muhammad Rafiq
 
-I build software for operations-heavy businesses and tools that connect AI systems to real-world work.
+I build software that connects AI, automation, and real-world workflows.
 
-My projects sit at the intersection of product strategy, workflow automation, trustworthy AI execution, data systems, and interface design. I am also an Economics student at the University of Michigan, where I study how organizations, incentives, and markets shape the systems people use.
+I'm an Economics student at the University of Michigan with interests in product strategy, systems design, automation, smart homes, and developer tools.
 
-## Currently Building
+## Public Projects
 
 ### [Ghost](https://github.com/mohabbis/ghost)
-
-A trust and execution layer for AI agents.
-
-Ghost lets agents carry out workflows across browsers and APIs while enforcing human approval for sensitive actions, verifying outcomes, preventing unsafe replay, and maintaining a tamper-evident audit trail.
-
-`TypeScript` `workflow orchestration` `policy enforcement` `human-in-the-loop` `audit infrastructure`
-
-### Counterflow
-
-An operational exception-management platform for multi-location financial-service businesses.
-
-Counterflow sits above existing BI, POS, accounting, and compliance systems. It turns operational signals into assigned cases with owners, deadlines, escalation paths, required evidence, and resolution history.
-
-`operational intelligence` `case management` `data integration` `financial services`
+A trust and execution layer for AI agents focused on reliable workflow execution, human approval, verification, and auditability.
 
 ### [Lumen](https://github.com/mohabbis/Lumen)
-
-A native iOS smart-home companion focused on routines, scenes, contextual suggestions, and understandable automation.
-
-`SwiftUI` `SwiftData` `HomeKit` `local-first architecture`
+A native iOS smart-home companion built around contextual automation, routines, and explainable HomeKit experiences.
 
 ### [FlipDeck](https://github.com/mohabbis/flipdeck)
-
-A Mac and Flipper Zero toolkit that turns the device into a configurable physical command deck for useful desktop workflows.
-
-`Swift` `C` `Flipper Zero` `USB HID` `macOS`
-
-## Product Studio
-
-I am developing a small portfolio of vertical SaaS products with shared infrastructure for authentication, organizations, billing, audit logs, notifications, workflow execution, observability, and AI utilities.
-
-| Product | Market | Purpose |
-|---|---|---|
-| **Counterflow** | Alternative financial services | Detect, assign, escalate, and resolve branch-level operational exceptions |
-| **WholeSight** | Wholesale distribution | Surface customer, sales, inventory, purchasing, and collections risks |
-| **WashOrbit** | Multi-location car washes | Connect membership, labor, equipment, weather, reviews, and site performance |
+A Mac and Flipper Zero toolkit for programmable desktop workflows and physical-device automation.
 
 ## Selected Technical Work
 
-| Project | Focus | Stack |
-|---|---|---|
-| [Ghost](https://github.com/mohabbis/ghost) | Reliable agent execution, approvals, verification, auditability | TypeScript, APIs, workflow systems |
-| [Lumen](https://github.com/mohabbis/Lumen) | Smart-home UX and contextual automation | SwiftUI, SwiftData, HomeKit |
-| [FlipDeck](https://github.com/mohabbis/flipdeck) | Physical-device desktop tooling | Swift, C, Flipper Zero, USB HID |
-| [Portfolio](https://github.com/mohabbis/personal-portfolio) | Product stories, case studies, and visual systems | Next.js, TypeScript, Tailwind |
+| Project | Focus |
+|---|---|
+| Ghost | AI workflow execution and reliability |
+| Lumen | Smart-home product design |
+| FlipDeck | Hardware and desktop tooling |
+| Portfolio | Product case studies and design |
 
-## How I Work
+## Technical Interests
 
-- Start with the operational problem, buyer, and workflow rather than the technology.
-- Treat AI agents as constrained software operators, not magical employees with excellent judgment.
-- Build explicit permissions, verification, auditability, and recovery into automated systems.
-- Use design to make complicated systems understandable and actionable.
-- Prefer focused vertical products over generic dashboards and decorative AI wrappers.
-
-## Technical Range
-
-- **Web:** TypeScript, React, Next.js, Tailwind, APIs, analytics, deployment
-- **Apple platforms:** Swift, SwiftUI, SwiftData, HomeKit, macOS and iOS product development
-- **Backend and data:** PostgreSQL, Supabase, integrations, workflow engines, operational data models
-- **AI systems:** agent tooling, policy gates, human approval, structured execution, verification, audit logs
-- **Devices:** Flipper Zero, USB HID, NFC experimentation, smart-home integrations
-- **Product:** market research, ICP definition, workflow mapping, SaaS strategy, interface design
+- AI agents and workflow orchestration
+- Product engineering and systems design
+- SwiftUI and Apple platforms
+- Next.js, TypeScript, and modern web applications
+- Smart-home technology
+- Human-computer interaction
 
 ## Links
 
-- [Portfolio](https://muharafiq.com)
-- [LinkedIn](https://linkedin.com/in/muharafiq)
-- [GitHub](https://github.com/mohabbis)
+- Portfolio: https://muharafiq.com
+- LinkedIn: https://linkedin.com/in/muharafiq
+- GitHub: https://github.com/mohabbis
