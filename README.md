@@ -71,17 +71,6 @@ Selected work across product engineering, systems design, automation, smart-home
 
 ---
 
-## Engineering principles
-
-> Software should be observable, constrained, and recoverable before it is called intelligent.
-
-- Trust is designed, not assumed.
-- Verify outcomes instead of inferring success.
-- Build for recovery, not perfection.
-- Keep complex systems understandable.
-
----
-
 ## Tools and technologies
 
 <div align="center">
